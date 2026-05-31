@@ -81,19 +81,13 @@ Tenho interesse especial por IA aplicada a negócios, agentes, RAG, automações
 
 ---
 
-## Interesses alinhados ao meu currículo
+## Foco profissional
 
-- Desenvolvimento de soluções com IA Generativa de ponta a ponta
-- Aplicações com Python no backend e React no frontend
-- Pipelines de IA, integrações com APIs e automações
-- RAG, embeddings, bancos vetoriais e Qdrant
-- Orquestração de LLMs, agentes e assistentes inteligentes
-- MCP Servers e ferramentas de apoio ao desenvolvimento com IA
-- Observabilidade, avaliação de respostas e melhoria de prompts
-- MVPs, PoCs e validação de novos produtos
-- WordPress, WooCommerce, VPS e ambientes web
-- Boas práticas, LGPD, segurança, guardrails e ética em IA
-- Discovery, documentação técnica, treinamento e suporte a clientes
+Atuo na criação de soluções digitais que conectam desenvolvimento web, automação e Inteligência Artificial Generativa para resolver problemas reais de negócio.
+
+Meu foco está em construir aplicações, assistentes, integrações e protótipos que ajudem empresas a organizar processos, melhorar atendimento, conectar sistemas e transformar dados em ações práticas.
+
+Tenho trabalhado principalmente com Python, React, APIs, WordPress/WooCommerce, RAG, agentes, bancos vetoriais e ferramentas de IA aplicadas ao desenvolvimento e à operação de produtos digitais.
 
 ---
 
