@@ -6,11 +6,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernandodeoliveiraprod">
-    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20de%20Oliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20de%20Oliveira-1748E8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/fernandooliveiradev?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfólio-Repositórios-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=1748E8" width="100%" />
+</p>
 
 ## Sobre
 
@@ -27,41 +32,41 @@ Tenho interesse especial por IA aplicada a negócios, agentes, RAG, automações
 ### Uso no dia a dia e projetos
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20REST-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1748E8?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-1748E8?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1748E8?style=flat-square&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20REST-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/WordPress-1748E8?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-111111?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-1748E8?style=flat-square&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ### IA, automação e dados
 
 <p>
-  <img src="https://img.shields.io/badge/IA%20Generativa-111827?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agno-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangFuse-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embeddings-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automações-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/IA%20Generativa-1748E8?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1748E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agno-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangFuse-1748E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Qdrant-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-1748E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automações-1748E8?style=flat-square" />
 </p>
 
 ### Em estudo e evolução
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-1748E8?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-1748E8?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1748E8?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 ---
@@ -102,6 +107,24 @@ Nos últimos projetos, venho atuando com soluções envolvendo IA Generativa, fe
 ## Projetos
 
 Neste GitHub compartilho estudos, experimentos e projetos relacionados a desenvolvimento web, IA, automações, APIs e aplicações práticas.
+
+<p>
+  <a href="https://github.com/fernandooliveiradev/briefforge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandooliveiradev&repo=briefforge&theme=github_dark&hide_border=true&bg_color=000000&title_color=1748E8&text_color=D7D7DF&icon_color=1748E8" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/fernandooliveiradev/startup-validator-pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandooliveiradev&repo=startup-validator-pro&theme=github_dark&hide_border=true&bg_color=000000&title_color=1748E8&text_color=D7D7DF&icon_color=1748E8" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/fernandooliveiradev/fpg-endereco-automatico-por-cep-no-checkout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandooliveiradev&repo=fpg-endereco-automatico-por-cep-no-checkout&theme=github_dark&hide_border=true&bg_color=000000&title_color=1748E8&text_color=D7D7DF&icon_color=1748E8" />
+  </a>
+</p>
 
 ---
 
