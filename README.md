@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:fernandopaglacci@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-fernandopaglacci@gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/fernandodeoliveiraprod">
     <img src="https://img.shields.io/badge/LinkedIn-Fernando%20de%20Oliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -19,7 +16,7 @@
 
 Sou desenvolvedor com experiência em projetos web, automações e aplicações com Inteligência Artificial Generativa.
 
-Atuo na construção e evolução de soluções digitais usando Python, React, APIs, WordPress, WooCommerce e ferramentas de IA para apoiar processos, atendimento, integrações, protótipos e produtos internos.
+Atuo na construção e evolução de soluções digitais usando Python, React, APIs, WordPress, WooCommerce e ferramentas de IA para apoiar processos, integrações, protótipos, produtos internos e atendimento a clientes.
 
 Tenho interesse especial por IA aplicada a negócios, agentes, RAG, automações, documentação técnica e criação de soluções simples, funcionais e bem organizadas.
 
@@ -42,13 +39,16 @@ Tenho interesse especial por IA aplicada a negócios, agentes, RAG, automações
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### IA e automação
+### IA, automação e dados
 
 <p>
   <img src="https://img.shields.io/badge/IA%20Generativa-111827?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agno-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangFuse-374151?style=flat-square" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-374151?style=flat-square" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-374151?style=flat-square" />
   <img src="https://img.shields.io/badge/Automações-374151?style=flat-square" />
 </p>
@@ -81,15 +81,19 @@ Tenho interesse especial por IA aplicada a negócios, agentes, RAG, automações
 
 ---
 
-## Interesses
+## Interesses alinhados ao meu currículo
 
-- IA Generativa aplicada a produtos reais
-- Agentes e assistentes inteligentes
-- RAG, embeddings e bancos vetoriais
-- Automações para áreas internas e clientes
-- Integrações com APIs e sistemas externos
-- Aplicações web com backend, frontend e banco de dados
-- Organização técnica, documentação e melhoria contínua
+- Desenvolvimento de soluções com IA Generativa de ponta a ponta
+- Aplicações com Python no backend e React no frontend
+- Pipelines de IA, integrações com APIs e automações
+- RAG, embeddings, bancos vetoriais e Qdrant
+- Orquestração de LLMs, agentes e assistentes inteligentes
+- MCP Servers e ferramentas de apoio ao desenvolvimento com IA
+- Observabilidade, avaliação de respostas e melhoria de prompts
+- MVPs, PoCs e validação de novos produtos
+- WordPress, WooCommerce, VPS e ambientes web
+- Boas práticas, LGPD, segurança, guardrails e ética em IA
+- Discovery, documentação técnica, treinamento e suporte a clientes
 
 ---
 
@@ -109,8 +113,9 @@ Neste GitHub compartilho estudos, experimentos e projetos relacionados a desenvo
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/fernandodeoliveiraprod](https://www.linkedin.com/in/fernandodeoliveiraprod)
-- E-mail: [fernandopaglacci@gmail.com](mailto:fernandopaglacci@gmail.com)
+Você pode me encontrar pelo LinkedIn:
+
+[linkedin.com/in/fernandodeoliveiraprod](https://www.linkedin.com/in/fernandodeoliveiraprod)
 
 ---
 
